@@ -9,7 +9,7 @@ Important Links:
 - Deep learning model converter - https://github.com/ysh329/deep-learning-model-convertor
 - Facial landmarks with dlib, OpenCV, and Python - https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/
 - Image classification with Keras and deep learning - https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/
-- Face recognition with OpenCV, Python, and deep learning - Face recognition with OpenCV, Python, and deep learning
+- Face recognition with OpenCV, Python, and deep learning - https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/
 - Semantic segmentation with OpenCV and deep learning - https://www.pyimagesearch.com/2018/09/03/semantic-segmentation-with-opencv-and-deep-learning/
 
  
