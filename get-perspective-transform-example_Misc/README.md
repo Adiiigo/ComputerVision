@@ -1,0 +1,21 @@
+- This tutorial is for transforming the perspective of the image
+- Converting it to the top-down view
+- There are 3 images with 3 different perspective and each of them is transformed into top-down perspective
+
+- Links refered :
+  - https://www.pyimagesearch.com/2014/08/25/4-point-opencv-getperspective-transform-example/
+  - https://docs.opencv.org/2.4/modules/imgproc/doc/geometric_transformations.html
+  - https://www.geeksforgeeks.org/perspective-transformation-python-opencv/
+  - https://www.programcreek.com/python/example/85017/cv2.getPerspectiveTransform
+  
+- Commands :
+   - CLI 
+      - python transform_example.py --image images/example_01.png --coords "[(73, 239), (356, 117), (475, 265), (187, 443)]"
+      - python transform_example.py --image images/example_02.png --coords "[(101, 185), (393, 151), (479, 323), (187, 441)]"
+      - python transform_example.py --image images/example_03.png --coords "[(63, 242), (291, 110), (361, 252), (78, 386)]"
+   - PyCharm
+      - On Parameters
+      - Edit configurations
+      -  --image images/example_01.png --coords "[(73, 239), (356, 117), (475, 265), (187, 443)]"
+      -  --image images/example_02.png --coords "[(101, 185), (393, 151), (479, 323), (187, 441)]"
+      -  --image images/example_03.png --coords "[(63, 242), (291, 110), (361, 252), (78, 386)]"
